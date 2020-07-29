@@ -1,0 +1,3 @@
+player/idle/ 50;10;50;10;50;10 loop
+player/run/ 3;3;3;3 loop
+player/jump/ 1 loop
